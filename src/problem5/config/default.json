@@ -1,0 +1,11 @@
+{
+  "Secret": {
+    "jwtKey": "secretKey"
+  },
+  "Application": {
+    "port": 3000,
+    "version": "v1",
+    "tokenExpired": 3600,
+    "refreshTokenExpired": 86400
+  }
+}
